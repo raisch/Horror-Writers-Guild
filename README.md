@@ -23,7 +23,7 @@ Read the [Server Governance & Constitution](SERVER%20GOVERNANCE%20%26%20CONSTITU
 
 ## Further Information
 
-- [Intoduction Governance Letter](governance-letter.md)
+- [Introduction Governance Letter](governance-letter.md)
 - [Community Standards](community-standards.md)
 - [Member Guide](member-guide.md)
 - [Proposed Alternate Names](proposed-names.md)
